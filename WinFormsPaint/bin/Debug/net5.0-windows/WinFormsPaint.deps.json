@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WinFormsPaint/1.0.0": {
+        "runtime": {
+          "WinFormsPaint.dll": {}
+        },
+        "resources": {
+          "pl-PL/WinFormsPaint.resources.dll": {
+            "locale": "pl-PL"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormsPaint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
